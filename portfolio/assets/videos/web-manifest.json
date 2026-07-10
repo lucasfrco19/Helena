@@ -1,0 +1,152 @@
+[
+  {
+    "mov": "video-01.mov",
+    "mp4": "video-01.mp4",
+    "poster": "video-posters/video-01.jpg",
+    "mp4_bytes": 1091376
+  },
+  {
+    "mov": "video-02.mov",
+    "mp4": "video-02.mp4",
+    "poster": "video-posters/video-02.jpg",
+    "mp4_bytes": 3362513
+  },
+  {
+    "mov": "video-03.mov",
+    "mp4": "video-03.mp4",
+    "poster": "video-posters/video-03.jpg",
+    "mp4_bytes": 715517
+  },
+  {
+    "mov": "video-04.mov",
+    "mp4": "video-04.mp4",
+    "poster": "video-posters/video-04.jpg",
+    "mp4_bytes": 8248074
+  },
+  {
+    "mov": "video-05.mov",
+    "mp4": "video-05.mp4",
+    "poster": "video-posters/video-05.jpg",
+    "mp4_bytes": 2170804
+  },
+  {
+    "mov": "video-06.mov",
+    "mp4": "video-06.mp4",
+    "poster": "video-posters/video-06.jpg",
+    "mp4_bytes": 3494773
+  },
+  {
+    "mov": "video-07.mov",
+    "mp4": "video-07.mp4",
+    "poster": "video-posters/video-07.jpg",
+    "mp4_bytes": 7637747
+  },
+  {
+    "mov": "video-08.mov",
+    "mp4": "video-08.mp4",
+    "poster": "video-posters/video-08.jpg",
+    "mp4_bytes": 4138632
+  },
+  {
+    "mov": "video-09.mov",
+    "mp4": "video-09.mp4",
+    "poster": "video-posters/video-09.jpg",
+    "mp4_bytes": 3228303
+  },
+  {
+    "mov": "video-10.mov",
+    "mp4": "video-10.mp4",
+    "poster": "video-posters/video-10.jpg",
+    "mp4_bytes": 4574480
+  },
+  {
+    "mov": "video-11.mov",
+    "mp4": "video-11.mp4",
+    "poster": "video-posters/video-11.jpg",
+    "mp4_bytes": 5166723
+  },
+  {
+    "mov": "video-12.mov",
+    "mp4": "video-12.mp4",
+    "poster": "video-posters/video-12.jpg",
+    "mp4_bytes": 3387555
+  },
+  {
+    "mov": "video-13.mov",
+    "mp4": "video-13.mp4",
+    "poster": "video-posters/video-13.jpg",
+    "mp4_bytes": 7225114
+  },
+  {
+    "mov": "video-14.mov",
+    "mp4": "video-14.mp4",
+    "poster": "video-posters/video-14.jpg",
+    "mp4_bytes": 1069501
+  },
+  {
+    "mov": "video-15.mov",
+    "mp4": "video-15.mp4",
+    "poster": "video-posters/video-15.jpg",
+    "mp4_bytes": 7224648
+  },
+  {
+    "mov": "video-16.mov",
+    "mp4": "video-16.mp4",
+    "poster": "video-posters/video-16.jpg",
+    "mp4_bytes": 5811387
+  },
+  {
+    "mov": "video-17.mov",
+    "mp4": "video-17.mp4",
+    "poster": "video-posters/video-17.jpg",
+    "mp4_bytes": 1921675
+  },
+  {
+    "mov": "video-18.mov",
+    "mp4": "video-18.mp4",
+    "poster": "video-posters/video-18.jpg",
+    "mp4_bytes": 8149385
+  },
+  {
+    "mov": "video-19.mov",
+    "mp4": "video-19.mp4",
+    "poster": "video-posters/video-19.jpg",
+    "mp4_bytes": 5922809
+  },
+  {
+    "mov": "video-20.mov",
+    "mp4": "video-20.mp4",
+    "poster": "video-posters/video-20.jpg",
+    "mp4_bytes": 5681736
+  },
+  {
+    "mov": "video-21.mov",
+    "mp4": "video-21.mp4",
+    "poster": "video-posters/video-21.jpg",
+    "mp4_bytes": 3929158
+  },
+  {
+    "mov": "video-22.mov",
+    "mp4": "video-22.mp4",
+    "poster": "video-posters/video-22.jpg",
+    "mp4_bytes": 3550877
+  },
+  {
+    "mov": "video-23.mov",
+    "mp4": "video-23.mp4",
+    "poster": "video-posters/video-23.jpg",
+    "mp4_bytes": 3957533
+  },
+  {
+    "mov": "video-24.mov",
+    "mp4": "video-24.mp4",
+    "poster": "video-posters/video-24.jpg",
+    "mp4_bytes": 6293238
+  },
+  {
+    "mov": "video-25.mov",
+    "mp4": "video-25.mp4",
+    "poster": "video-posters/video-25.jpg",
+    "mp4_bytes": 1653493
+  }
+]

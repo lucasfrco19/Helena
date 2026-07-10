@@ -1,0 +1,152 @@
+﻿[
+    {
+        "index":  1,
+        "file":  "video-01.mov",
+        "original":  "458a2213e35e480d87e8215ab540b53c.MOV",
+        "bytes":  6197645
+    },
+    {
+        "index":  2,
+        "file":  "video-02.mov",
+        "original":  "a469d61c18dc4b61990bb4e73c14baf8.MOV",
+        "bytes":  18037514
+    },
+    {
+        "index":  3,
+        "file":  "video-03.mov",
+        "original":  "c0bceea51b0f4756bc57ee69a04f00c8.MOV",
+        "bytes":  10145222
+    },
+    {
+        "index":  4,
+        "file":  "video-04.mov",
+        "original":  "copy_256C185A-3116-42EC-97EB-93C5D5BC26C9.MOV",
+        "bytes":  44648611
+    },
+    {
+        "index":  5,
+        "file":  "video-05.mov",
+        "original":  "copy_319F5804-97C0-48E9-93E7-2DA2FDE24770.MOV",
+        "bytes":  15281306
+    },
+    {
+        "index":  6,
+        "file":  "video-06.mov",
+        "original":  "copy_3F9535D0-B734-4AEE-90C9-E0CD63B2FD4B.MOV",
+        "bytes":  34045090
+    },
+    {
+        "index":  7,
+        "file":  "video-07.mov",
+        "original":  "copy_3FB3C4FE-75A9-460C-B0C5-3C2CE692E3C7.MOV",
+        "bytes":  36458100
+    },
+    {
+        "index":  8,
+        "file":  "video-08.mov",
+        "original":  "copy_4D1B9875-F744-4EE9-8FDA-647CA0F128BF.MOV",
+        "bytes":  46963409
+    },
+    {
+        "index":  9,
+        "file":  "video-09.mov",
+        "original":  "copy_53BAD94D-7CB1-4E19-BC00-389FA69FC0A0.MOV",
+        "bytes":  18971213
+    },
+    {
+        "index":  10,
+        "file":  "video-10.mov",
+        "original":  "copy_5570CAF2-355C-44C2-BC86-C28F3F24D597.MOV",
+        "bytes":  26212913
+    },
+    {
+        "index":  11,
+        "file":  "video-11.mov",
+        "original":  "copy_580C944E-3FFA-4CE5-BE4B-564175A81868.MOV",
+        "bytes":  24744649
+    },
+    {
+        "index":  12,
+        "file":  "video-12.mov",
+        "original":  "copy_5FECB0E6-5BA9-41D6-AC51-6E94378C59C0.MOV",
+        "bytes":  26451820
+    },
+    {
+        "index":  13,
+        "file":  "video-13.mov",
+        "original":  "copy_64421ABC-37F3-42E4-8D93-690D7E93D5A0.MOV",
+        "bytes":  66226365
+    },
+    {
+        "index":  14,
+        "file":  "video-14.mov",
+        "original":  "copy_73665EC5-3AE7-4DCA-B2F3-AE202474AF6E.MOV",
+        "bytes":  9965083
+    },
+    {
+        "index":  15,
+        "file":  "video-15.mov",
+        "original":  "copy_830939A1-857A-4940-BC6D-FBD8E3946CD1.MOV",
+        "bytes":  48551929
+    },
+    {
+        "index":  16,
+        "file":  "video-16.mov",
+        "original":  "copy_88BD6ECD-75AB-48C5-8E04-19FEDD44FE03.MOV",
+        "bytes":  30131582
+    },
+    {
+        "index":  17,
+        "file":  "video-17.mov",
+        "original":  "copy_8C48B597-3AC2-4185-828C-7238D08934B7.MOV",
+        "bytes":  11513515
+    },
+    {
+        "index":  18,
+        "file":  "video-18.mov",
+        "original":  "copy_8EAEC6E1-10DE-43ED-94B0-089746550EBF.MOV",
+        "bytes":  66686813
+    },
+    {
+        "index":  19,
+        "file":  "video-19.mov",
+        "original":  "copy_942D0A57-AE53-408E-9905-772041077E13.MOV",
+        "bytes":  94452388
+    },
+    {
+        "index":  20,
+        "file":  "video-20.mov",
+        "original":  "copy_9B96A09E-6DF5-41B7-BEA6-4DE76C8740F4.MOV",
+        "bytes":  133786677
+    },
+    {
+        "index":  21,
+        "file":  "video-21.mov",
+        "original":  "copy_B1BF31C8-6A65-4D17-9E9D-ED5A56FDC41D.MOV",
+        "bytes":  47212939
+    },
+    {
+        "index":  22,
+        "file":  "video-22.mov",
+        "original":  "copy_BE36A760-4901-493D-8E60-10DC23B6E5B4.MOV",
+        "bytes":  49710602
+    },
+    {
+        "index":  23,
+        "file":  "video-23.mov",
+        "original":  "copy_C006D682-7AC8-4FA8-BD27-12BB73A48162.MOV",
+        "bytes":  33523888
+    },
+    {
+        "index":  24,
+        "file":  "video-24.mov",
+        "original":  "copy_F7DEBEFA-D2FC-4D8D-968E-752D0EF112FB.MOV",
+        "bytes":  84179687
+    },
+    {
+        "index":  25,
+        "file":  "video-25.mov",
+        "original":  "f4097dee33c640e7b875029a66cc41ed.MOV",
+        "bytes":  6509170
+    }
+]

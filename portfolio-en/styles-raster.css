@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: #856348;
+}
+
+body {
+  margin: 0;
+  background: #856348;
+  overflow-x: hidden;
+}
+
+.portfolio {
+  width: 100%;
+}
+
+.screen {
+  position: relative;
+  width: 100%;
+  margin: 0;
+  background: #856348;
+  line-height: 0;
+  scroll-margin-top: 0;
+}
+
+.screen img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  user-select: none;
+}
+
+.hotspot {
+  position: absolute;
+  display: block;
+  border-radius: 999px;
+  background: transparent;
+}
+
+.hotspot:focus-visible {
+  outline: 3px solid rgba(255, 255, 255, 0.8);
+  outline-offset: 4px;
+}
+
+.hotspot--portfolio {
+  left: 30.7%;
+  top: 67.1%;
+  width: 16.8%;
+  height: 6.6%;
+}
+
+.hotspot--work {
+  left: 52.6%;
+  top: 67.1%;
+  width: 16.8%;
+  height: 6.6%;
+}
+
+.hotspot--videos {
+  left: 34.4%;
+  top: 79.7%;
+  width: 31.1%;
+  height: 9%;
+}
+
+.contact-link {
+  top: 61.1%;
+  width: 9.5%;
+  height: 4.5%;
+}
+
+.contact-link--instagram {
+  left: 28.2%;
+}
+
+.contact-link--tiktok {
+  left: 39.2%;
+}
+
+.contact-link--email {
+  left: 50.2%;
+}
+
+.contact-link--whatsapp {
+  left: 61.2%;
+}
+
+@media (max-width: 760px) {
+  body {
+    background: #efe1ce;
+  }
+
+  .screen {
+    overflow: hidden;
+  }
+
+  .screen img {
+    width: auto;
+    height: 100vh;
+    min-width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .hotspot--portfolio {
+    left: 12%;
+    top: 67%;
+    width: 36%;
+    height: 6.8%;
+  }
+
+  .hotspot--work {
+    left: 52%;
+    top: 67%;
+    width: 36%;
+    height: 6.8%;
+  }
+
+  .hotspot--videos {
+    left: 27%;
+    top: 78%;
+    width: 46%;
+    height: 10%;
+  }
+
+  .contact-link {
+    top: 61%;
+    width: 16%;
+    height: 5%;
+  }
+
+  .contact-link--instagram {
+    left: 17%;
+  }
+
+  .contact-link--tiktok {
+    left: 34%;
+  }
+
+  .contact-link--email {
+    left: 51%;
+  }
+
+  .contact-link--whatsapp {
+    left: 68%;
+  }
+}
